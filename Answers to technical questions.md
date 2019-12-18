@@ -9,14 +9,14 @@
 
 3.	How would you implement test automation in a legacy application? Have you ever had to do this?
 
-    Even though I have not to do any legacy application, I would start by analyzing the application, like what functions are most essential, what part of the application is used more frequently, any test case is hard for humans but easy for a computer, etc. Make a list by priority and choose automation tools and frameworks accordingly
+    Even though I have not done any legacy application, I would start by analyzing the application, like what functions are most essential, what part of the application is used more frequently, any test case is hard for humans but easy for a computer, etc. Make a list by priority and choose automation tools and frameworks accordingly.
 
 
 4.	How would you improve the customer experience of the JUST EAT website?
 
  * When a user tries to enter the postcode, it is nice to have a function that could detect the current location of the user and automatically enter into the postcode filed. 
 
-* It would be very convenient for the user if  the website could show restaurants on a map, so the user could know how far are they
+* It would be very convenient for the user if the website could show restaurants on a map, so the user could know how far are they.
 
 
 
