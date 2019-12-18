@@ -14,7 +14,7 @@ public class StepDefinitions {
 
 	@Given("^I want food in \"([^\"]*)\"$")
 	public void i_want_food_in(String postcode) throws Throwable {
-		System.setProperty("webdriver.chrome.driver", "E:\\WorkSpaces\\EclipseWS\\Libs\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "E:\\WorkSpaces\\EclipseWS\\CucumberTest\\Libs\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("http://www.just-eat.co.uk/");
 		WebElement postcodeInput = driver.findElement(By.name("postcode"));
