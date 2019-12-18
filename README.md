@@ -35,9 +35,9 @@ $ git clone https://github.com/BruceYang0930/JustEatTest
 Or download a ZIP of master manually and expand the contents someplace on your system.
 
 ## Prerequisites
-1. Open project by using Eclipse IDE;
-2. Configur external libraies (included in Libs folder);
-3. Modify Chrome webdriver location in StepDefinitions.java
+1. Open the project by using Eclipse IDE;
+2. Configure external libraries (included in the Libs folder);
+3. Modify the Chrome webdriver location in the StepDefinitions.java
 
 
 ## Scenarios
